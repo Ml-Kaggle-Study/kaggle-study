@@ -23,11 +23,9 @@
 | 1주차 | OT | 자기소개 / 운영 방식 / 대회 소개 |
 | 2주차 | Cassava Leaf Disease | EDA / 베이스라인 / Kaggle submission |
 | 3~4주차 | 실험 | Augmentation / 모델 변경 / Hyperparameter Tuning |
-| 5주차 | Cassava 정리 | 실험 결과 공유 / Best method / README 정리 |
-| 6주차 | Global Wheat Detection | Object Detection 개념 / BBox·IoU·mAP / YOLO 실습 |
-| 7주차 | YOLO Baseline | YOLO 학습 / 베이스라인 / Kaggle submission |
-| 8~9주차 | 실험 | Augmentation / 모델 변경 / Hyperparameter Tuning |
-| 10주차 | 최종 회고 | Best method 공유 / 최종 정리 |
+| 5주차 | Global Wheat Detection | Object Detection 개념 / BBox·IoU·mAP / YOLO 실습 |
+| 6주차 | YOLO Baseline | YOLO 학습 / 베이스라인 / Kaggle submission |
+| 7~8주차 | 실험 | Augmentation / 모델 변경 / Hyperparameter Tuning |
 
 ※ 중간고사 · 기말고사 주차 휴식
 
