@@ -1,6 +1,6 @@
 # 🖥️ CV Lab — Kaggle Computer Vision Study
 
-> 10주 동안 Kaggle CV 대회를 함께 실험하고, 모델 실험 경험과 GitHub 레포를 남기는 스터디입니다.
+> 8주 동안 Kaggle CV 대회를 함께 실험하고, 모델 실험 경험과 GitHub 레포를 남기는 스터디입니다.
 
 ---
 
