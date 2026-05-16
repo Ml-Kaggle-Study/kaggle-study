@@ -66,4 +66,4 @@ return (x_center * dw, y_center * dh, box[2] * dw, box[3] * dh)
 
 ## 상세 실험 기록
 
-[Notion 회의록](https://www.notion.so/880b99107999824085c981e4652c0d35)
+[Notion 회의록](https://swift-cartwheel-7ba.notion.site/3512e7ba1f178002ad5bd121f9a709b0?v=3512e7ba1f17800c8db3000cc53dde82&pvs=74)
